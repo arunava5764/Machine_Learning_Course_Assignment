@@ -1,0 +1,32 @@
+# Lab 3 : Working with Neural Networks
+
+---
+
+
+Total Points: **100**
+
+
+Submission Deadline :  **08 April 2022, 23:59 hours**
+
+---
+
+
+
+General Instructions:
+
+---
+
+
+
+1. You have to do this lab individually
+2. **You have to perform the custom implementation in Part 1 of the assignment.** Libraries like **Keras or torch.nn are not allowed** for part 1 (except where it is mentioned).
+3. Please start early as some of the experiments take time to run 
+4. All the code should be submitted in the form of a single Jupyter/colab notebook.
+5. Points for each sub-section are mentioned in the questions.
+6. You can use Google colab to run a jupyter notebook (https://colab.research.google.com/) How to load data in Google Colab ?(https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92) (https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/)
+7. Submission must be done in the Google classroom. The code as well as the accompanying observations should be made part of the colab notebook.
+8. **Code Readability** is very important. Modularize your code by making use of classes and functions that can be flexibly reused wherever necessary. Also use self explanatory variable names and add comments to describe your approach wherever necessary. You may add additional code or text blocks as required.
+9. You are expected to submit your **detailed inferences** (preferably in a text block) and not just an error free code.
+10. Students are expected to follow the **honor code** of the class.
+11. **Please make a 10-minute video explaining your lab. Please provide a link to your video shared via the google drive in your notebook itslef (in a seperate text block). Follow the following naming convention: Name_rollnumber_NB.ipynb and Name_rollnumber_video.mkv respectively.** 
+12. **Submissions without links for the videos, incorrect naming conventions, or incorrect folder arrangement will not be evaluated.**
